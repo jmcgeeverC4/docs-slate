@@ -1,3 +1,5 @@
+sudo docker run --mount type=bind,source=/home/wwalsh/c4/docs/docs-driverworks-fundamentals/source/includes,target=/srv/slate/source/includes --mount type=bind,source=/home/wwalsh/c4/docs/docs-driverworks-fundamentals/build,target=/srv/slate/build slate:latest
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/slatedocs/img/master/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
   <br>
