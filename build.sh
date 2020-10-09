@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Copyright 2020 Wirepath Home Systems, LLC. All rights reserved.
+
 cd "${0%/*}"
 python3 ./buildERB.py
 sudo gem install bundler

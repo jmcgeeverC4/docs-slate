@@ -1,3 +1,5 @@
+# Copyright 2020 Wirepath Home Systems, LLC. All rights reserved.
+
 import re
 import os
 
