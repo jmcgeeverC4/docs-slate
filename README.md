@@ -4,4 +4,4 @@ This repository holds the [Slate](https://github.com/slatedocs/slate) tools and 
 
 `build.sh` and `buildERB.py` are Copyright 2020 Wirepath Home Systems, LLC. All rights reserved.
 
-[comment]: # (Copyright 2020 Wirepath Home Systems, LLC. All rights reserved.)
+[copyright]: # (Copyright 2020 Wirepath Home Systems, LLC. All rights reserved.)
