@@ -2,6 +2,6 @@
 
 # Slate Documentation build system for Control4
 
-This repository holds the [Slate](https://github.com/slatedocs/slate) tools and associated Control4-written scripts and assets to build Control4-branded documentation powered by Slate.
+This repository holds the [Slate](https://github.com/slatedocs/slate) tools and associated Control4-written scripts and assets to build Control4-branded documentation powered by Slate.  The [LICENSE](./LICENSE) in this repository is the license statement for Slate.
 
 `build.sh` and `buildERB.py` are Copyright 2020 Wirepath Home Systems, LLC. All rights reserved.
